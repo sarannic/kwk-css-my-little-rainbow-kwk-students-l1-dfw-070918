@@ -13,25 +13,25 @@ div {
   border-top-color: #f00;
 }
 
-#orange {
+#orange{
  color: #ffa500;
 }
-
-#yellow {
+#yellow{
   color: #ff0;
 }
 
-#green {
+#green{
   color: #00bc3f;
 }
 
-#blue {
+#blue{
   color: #06f;
 }
 
-#indigo {
+#indigo{
   color:#8a2be2;
 }
-/*#violet {*/
-/*  color: #d300c9;*/
-/*}*/
+
+#violet{
+  color: #d300c9;
+}
