@@ -9,29 +9,29 @@ div {
   border-right-color: transparent; /* the right side */
   border-bottom-color: transparent; /* and the bottom of the circle */
 }
-#red {
+.red {
   border-top-color: #f00;
 }
 
-#orange{
+.orange{
  color: #ffa500;
 }
-#yellow{
+.yellow{
   color: #ff0;
 }
 
-#green{
+.green{
   color: #00bc3f;
 }
 
-#blue{
+.blue{
   color: #06f;
 }
 
-#indigo{
+.indigo{
   color:#8a2be2;
 }
 
-#violet{
+.violet{
   color: #d300c9;
 }
